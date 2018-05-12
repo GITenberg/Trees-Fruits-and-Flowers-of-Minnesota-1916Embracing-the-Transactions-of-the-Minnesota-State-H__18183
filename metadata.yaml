@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '7857'
     url: http://www.gutenberg.org/2009/agents/7857
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18183#Trees-Fruits-and-Flowers-of-Minnesota-1916Embracing-the-Transactions-of-the-Minnesota-State-H_
 gutenberg_bookshelf:
 - Natural History
 - Horticulture
